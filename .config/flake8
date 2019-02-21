@@ -1,0 +1,3 @@
+[flake8]
+ignore = F821, E227, E226
+filename= *.sage,*.py
